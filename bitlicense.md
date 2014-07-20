@@ -81,16 +81,14 @@ designated merchants, but cannot be converted into, or redeemed for, Fiat Curren
 (n) Virtual Currency Business Activity means the conduct of any one of the following types of activities 
 involving New York or a New York Resident: 
 
-(1) receiving Virtual Currency for transmission or transmitting the same;  
+(1) receiving Virtual Currency with value pegged to a constant fiat value for transmission or transmitting the same;  
 
-(2) securing, storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;  
+(2) buying and selling Virtual Currency as a customer business; 
 
-(3) buying and selling Virtual Currency as a customer business; 
-
-(4) performing retail conversion services, including the conversion or exchange of Fiat Currency or 
+(3) performing retail conversion services, including the conversion or exchange of Fiat Currency or 
 other value into Virtual Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion or exchange of one form of Virtual Currency into another form of Virtual Currency; or  
 
-(5) controlling, administering, or issuing a Virtual Currency. 
+(4) controlling, administering, or issuing a Virtual Currency that is not of a decentralized nature. 
  
 Statutory Authority:  Financial Services Law, sections 102, 201, 301, and 302
 
